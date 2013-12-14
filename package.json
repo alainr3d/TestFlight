@@ -1,11 +1,6 @@
 {
-  "name": "testapp",
+  "name": "heroku_hello_world",
   "version": "0.0.1",
-  "engines": {
-      "node": "0.6.15"
-    , "npm": "1.1.9"    
-  }
-  , "dependencies": {
-    "tower": "0.4.0-12"
-  }
+  "dependencies": {
+    "express": "2.2.0"
 }
